@@ -1,0 +1,2 @@
+# CloudAzureData
+Cloud functions 
